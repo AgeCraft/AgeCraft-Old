@@ -1,4 +1,4 @@
-itemGroup.AgeCraft=文明
+itemGroup.AgeCraft=AgeCraft
 itemGroup.Metals=金属
 itemGroup.Wood=木材
 itemGroup.Tools=工具
@@ -7,13 +7,13 @@ itemGroup.Armor=装备
 itemGroup.Prehistory=史前
 itemGroup.Agriculture=农业
 
-agecraft.version.init_log_message=Initializing remote version check against remote version authority, located at
-agecraft.version.uninitialized=Remote version check failed to initialize properly
-agecraft.version.current=Currently using the most up to date version (@REMOTE_MOD_VERSION@) of AgeCraft for @MINECRAFT_VERSION@
-agecraft.version.outdated=A new @MOD_NAME@ version exists (@REMOTE_MOD_VERSION@) for @MINECRAFT_VERSION@. Get it here: @MOD_UPDATE_LOCATION@
-agecraft.version.general_error=Error while connecting to remote version authority file; trying again
-agecraft.version.final_error=Version check stopping after three unsuccessful connection attempts
-agecraft.version.mc_version_not_found=Unable to find a version of @MOD_NAME@ for @MINECRAFT_VERSION@ in the remote version authority
+agecraft.version.init_log_message=远程版本插件初始化,与远程版本文件对比,对比版本保存于
+agecraft.version.uninitialized=远程版本检查初始化失败.
+agecraft.version.current=当前使用AgeCraft最先进的版本(@REMOTE_MOD_VERSION@)为Minecraft版本@MINECRAFT_VERSION@设计.
+agecraft.version.outdated=@MOD_NAME@最新版本(@REMOTE_MOD_VERSION@)针对@MINECRAFT_VERSION@而设计,现已经可以使用. 在这里下载最新版本: @MOD_UPDATE_LOCATION@
+agecraft.version.general_error=远程版本文件链接失败;重试中...
+agecraft.version.final_error=在三次不成功的尝试后版本检查中止.
+agecraft.version.mc_version_not_found=对比远程版本文件,未发现@MOD_NAME@对应@MINECRAFT_VERSION@的版本.
 
 container.crafting=合成
 container.workbench=工作台
@@ -123,23 +123,23 @@ tools.type.arrow=箭矢
 tools.type.bolt=弩弹
 tools.type.fishingRod=鱼竿
 
-tools.materials.woodOak=Oak Wood
-tools.materials.woodBirch=Birch Wood
-tools.materials.woodSpruce=Spruce Wood
-tools.materials.woodJungle=Jungle Wood
-tools.materials.stone=Stone
+tools.materials.woodOak=橡树原木
+tools.materials.woodBirch=白桦原木
+tools.materials.woodSpruce=云杉原木
+tools.materials.woodJungle=丛林树原木
+tools.materials.stone=石头
 
-armor.type.helmet=Helmet
-armor.type.chestplate=Chestplate
-armor.type.leggings=Leggings
-armor.type.boots=Boots
+armor.type.helmet=头盔
+armor.type.chestplate=胸甲
+armor.type.leggings=护腿
+armor.type.boots=靴子
 
-crafting.workbench=Workbench
+crafting.workbench=工作台
 
-fluid.tile.water=Water
-fluid.tile.lava=Lava
+fluid.tile.water=水
+fluid.tile.lava=岩浆
 
-tile.ageTeleporter.name=Age Teleporter
-tile.ageTeleporterBlock.name=Age Teleporter Block
-tile.ageTeleporterBeam.name=Age Teleporter Beam
-tile.ageTeleporterChest.name=Age Teleporter Chest
+tile.ageTeleporter.name=时代传送器
+tile.ageTeleporterBlock.name=时代传送方块
+tile.ageTeleporterBeam.name=时代传送柱
+tile.ageTeleporterChest.name=时代传送箱
