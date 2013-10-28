@@ -1,0 +1,145 @@
+itemGroup.AgeCraft=文明
+itemGroup.Metals=金属
+itemGroup.Wood=木材
+itemGroup.Tools=工具
+itemGroup.Armor=装备
+
+itemGroup.Prehistory=史前
+itemGroup.Agriculture=农业
+
+agecraft.version.init_log_message=Initializing remote version check against remote version authority, located at
+agecraft.version.uninitialized=Remote version check failed to initialize properly
+agecraft.version.current=Currently using the most up to date version (@REMOTE_MOD_VERSION@) of AgeCraft for @MINECRAFT_VERSION@
+agecraft.version.outdated=A new @MOD_NAME@ version exists (@REMOTE_MOD_VERSION@) for @MINECRAFT_VERSION@. Get it here: @MOD_UPDATE_LOCATION@
+agecraft.version.general_error=Error while connecting to remote version authority file; trying again
+agecraft.version.final_error=Version check stopping after three unsuccessful connection attempts
+agecraft.version.mc_version_not_found=Unable to find a version of @MOD_NAME@ for @MINECRAFT_VERSION@ in the remote version authority
+
+container.crafting=合成
+container.workbench=工作台
+
+trees.wood=木头
+trees.leaves=树叶
+trees.log=原木
+trees.sapling=树苗
+trees.planks=木板
+trees.wall=墙壁
+trees.fence=栅栏
+trees.fenceGate=栅栏门
+trees.door.standard=门
+trees.door.solid=实心门
+trees.door.double=双边门
+trees.door.full=全切门
+trees.trapdoor.standard=活板门
+trees.trapdoor.solid=实心活板门
+trees.ladder=梯子
+trees.stick=木棍
+trees.dust=粉末
+trees.bucket=桶
+
+trees.oak=橡木
+trees.birch=白桦
+trees.spruce=云杉
+trees.jungle=丛林树
+
+metals.ore=矿石
+metals.block=方块
+metals.fence=栅栏
+metals.fenceGate=栅栏门
+metals.door.standard=门
+metals.door.solid=实心门
+metals.door.double=双边门
+metals.door.full=全切门
+metals.trapdoor.standard=活板门
+metals.trapdoor.solid=实心活板门
+metals.ladder=梯子
+metals.ingot=锭
+metals.gem=宝石
+metals.stick=木棍
+metals.nugget=粒
+metals.dust=粉末
+metals.bucket=桶
+
+metals.copper=铜
+metals.tin=锡
+metals.bronze=青铜
+metals.silver=银
+metals.iron=铁
+metals.gold=金
+metals.zinc=
+metals.nickel=镍
+metals.aluminium=铝
+metals.platinum=铂
+metals.lead=铅
+metals.steel=钢
+metals.cobalt=钴
+metals.mithril=秘银
+metals.adamantite=精金
+metals.tungsten=钨
+metals.uranium=铀
+metals.coal=煤
+metals.amethyst=紫晶
+metals.berylRed=红绿柱石
+metals.berylYellow=黄绿柱石
+metals.berylBlue=蓝绿柱石
+metals.berylGreen=翠绿柱石
+metals.diamond=钻石
+metals.emerald=绿宝石
+metals.jade=翡翠
+metals.lapisLazuli=青金石
+metals.onyx=缟玛瑙
+metals.opal=蛋白石
+metals.quartz=石英
+metals.ruby=红宝石
+metals.sapphire=蓝宝石
+metals.tigerEye=虎眼石
+metals.topaz=黄玉
+metals.turquoise=绿松石
+metals.redstone=红石
+metals.salt=盐
+metals.sulphur=硫磺
+
+tools.type.default=工具
+tools.type.sword=剑
+tools.type.pickaxe=镐
+tools.type.axe=Axe斧
+tools.type.shovel=铲
+tools.type.hoe=锄
+tools.type.battleaxe=战斧
+tools.type.warhammer=战锤
+tools.type.mace=槌
+tools.type.dagger=匕首
+tools.type.knife=刀
+tools.type.spear=标枪
+tools.type.sickle=镰刀
+tools.type.pitchfork=干草叉
+tools.type.hammer=锤子
+tools.type.chisel=凿子
+tools.type.handsaw=手锯
+tools.type.saw=Saw锯子
+tools.type.bow=Bow弓
+tools.type.crossbow=十字弩
+tools.type.arrow=箭矢
+tools.type.bolt=弩弹
+tools.type.fishingRod=鱼竿
+
+tools.materials.woodOak=Oak Wood
+tools.materials.woodBirch=Birch Wood
+tools.materials.woodSpruce=Spruce Wood
+tools.materials.woodJungle=Jungle Wood
+tools.materials.stone=Stone
+
+armor.type.helmet=Helmet
+armor.type.chestplate=Chestplate
+armor.type.leggings=Leggings
+armor.type.boots=Boots
+
+crafting.workbench=Workbench
+
+fluid.tile.water=Water
+fluid.tile.lava=Lava
+
+tile.ageTeleporter.name=Age Teleporter
+tile.ageTeleporterBlock.name=Age Teleporter Block
+tile.ageTeleporterBeam.name=Age Teleporter Beam
+tile.ageTeleporterChest.name=Age Teleporter Chest
