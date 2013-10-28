@@ -1,0 +1,13 @@
+#zh_CN
+
+tile.campfire.name=营火
+tile.rock.name=岩石
+tile.pot.name=壶
+tile.bed.name=床
+
+item.fakeStone.name=岩石
+item.rock.name=岩石
+item.rockTool.name=岩石工具
+item.rockTanningTool.name=岩石鞣革工具
+item.rockPickaxeHead.name=岩石镐头
+item.rockPickaxe.name=岩石镐
