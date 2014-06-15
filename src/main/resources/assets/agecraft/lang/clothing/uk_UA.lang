@@ -1,0 +1,59 @@
+clothing.types=Види
+clothing.categories=Категорії
+clothing.pieces=Частини
+
+clothing.type.skin=Зовнішність
+clothing.type.hair=Зачіска
+clothing.type.eyes=Очі
+clothing.type.mouth=Рот
+clothing.type.facialHair=Обличчя
+clothing.type.hat=Шапка
+clothing.type.shirt=Сорочка
+clothing.type.pants=Штани
+clothing.type.boots=Чоботи
+
+
+clothing.category.general=Загальний
+clothing.category.special=Спеціальні
+clothing.category.prehistory=Передісторія
+
+
+clothing.general.skin.steve=Вигляд Стіва
+
+clothing.general.hair.steve=Волосся Стіва
+
+clothing.general.eyes.steve=Очі Стіва
+clothing.general.eyes.happy=Щасливі очі
+clothing.general.eyes.large=Великі очі
+clothing.general.eyes.scared=Налякані очі
+clothing.general.eyes.derp=Derpy Eyes
+
+clothing.general.mouth.steve=Рот Стіва
+clothing.general.mouth.derp=Derpy Mouth
+
+clothing.general.facialHair.steve=Обличчя Стіва
+clothing.general.facialHair.none=Нічого
+
+clothing.general.hat.steve=Капелюх Стіва
+clothing.general.hat.smooth=Плаский капелюх
+clothing.general.hat.headband=Головна пов'язка
+
+clothing.general.shirt.steve=Сорочка стіва
+clothing.general.shirt.smooth=Пласка куртка
+clothing.general.shirt.gradient=Полосата сорочка
+clothing.general.shirt.sleeveless=Сорочка з рукавами
+
+clothing.general.pants.steve=Штани Стіва
+clothing.general.pants.smooth=Прямі штани
+
+clothing.general.boots.steve=Чоботи Стіва
+clothing.general.boots.smooth=Прямі штани
+
+
+clothing.special.boots.djprincecap=Взуття DJPrinceCap
+clothing.special.shirt.djprincecap=Сорочка DJPrinceCap
+clothing.special.pants.djprincecap=Штани DJPrinceCap
+clothing.special.hat.djprincecap=Окуляри DJPrinceCap
+
+
+clothing.prehistory.hat.bone=Кістка
