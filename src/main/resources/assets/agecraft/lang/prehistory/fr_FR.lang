@@ -1,0 +1,14 @@
+tile.campfire.name=Feu de camp
+tile.rock.name=Pierre
+tile.pot.name=Pot
+tile.bed.name=Lit
+tile.barrel.name=Tonneau
+tile.box.name=Caisse en bois
+
+item.fakeStone.name=Pierre
+item.rock.name=Pierre
+item.rockTool.name=Outil en pierre
+item.rockTanningTool.name=Outil du tanneur en pierre
+item.rockPickaxeHead.name=Tête de pioche en pierre
+item.rockPickaxe.name=Pioche en pierre
+item.flintAndRock.name=Sylex et pierre
